@@ -1,6 +1,6 @@
-// Name:-    Akash singh
+// Name:-     Akash singh
 // Class:-    CSE (III rd year)
-//             Institute of Engineering And Technology, Lucknow
+//            Institute of Engineering And Technology, Lucknow
 
 
 #include <iostream>
